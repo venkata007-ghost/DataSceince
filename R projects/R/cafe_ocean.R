@@ -2,7 +2,7 @@ library(ggplot2)
 library(readxl)
 getwd()
 # set the working directory to where the dataset is located
-setwd("C:\\Users\\User\\Desktop\\cafe")
+setwd("C:/Users/User/Desktop/portfolio DataSceince/proj/R projects")
 
 # read the CSV file into a dataframe
 cafe_ocean <- read_excel("Cafe_Ocean.xlsx")
